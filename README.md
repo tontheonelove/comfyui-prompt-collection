@@ -31,3 +31,9 @@ Full-body photo of a beautiful 20-year-old woman (big breasts), smiling, round e
 # example result
 <img src=ComfyUI_temp_rlunc_00006_.png />
 
+-----------------------------------------------------------------------------------------
+
+Photo of a volcano erupting, lava gushing out, covered in smoke around, below the volcano there is a village, people are running away from the village, birds are flying around, being burned by the volcano.
+
+# example result
+<img src=ComfyUI_temp_rlunc_00007_.png />
