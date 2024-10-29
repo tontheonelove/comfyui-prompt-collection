@@ -17,3 +17,10 @@ An 18-year-old Vietnamese girl(ฺBig Breast) wearing a cream-colored short-slee
 # example result
 <img src=ComfyUI_temp_rlunc_00004_.png />
 
+-----------------------------------------------------------------------------------------
+
+A breathtaking cosmic scene depicting the vastness of the universe, filled with vibrant nebulae, swirling galaxies, and countless twinkling stars. In the foreground, a silhouette of an astronaut gazes out into the cosmos, surrounded by floating planets and shooting stars. The colors range from deep blues and purples to fiery oranges and pinks, creating a sense of wonder and infinity, evoking the mystery and beauty of space.
+
+# example result
+<img src=ComfyUI_temp_rlunc_00005_.png />
+
