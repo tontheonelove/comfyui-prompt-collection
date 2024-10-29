@@ -37,3 +37,11 @@ Photo of a volcano erupting, lava gushing out, covered in smoke around, below th
 
 # example result
 <img src=ComfyUI_temp_rlunc_00007_.png />
+
+
+HD photo of a beautiful 18-year-old girl (big breasts) wearing a short-sleeved knitted shirt with crossed chest, round eyes looking at the viewer, beautiful long black hair, a background of railroads, a train is playing nearby.
+
+# example result
+<img src=ComfyUI_temp_rlunc_00008_.png />
+
+
