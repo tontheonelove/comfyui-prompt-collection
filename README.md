@@ -24,3 +24,10 @@ A breathtaking cosmic scene depicting the vastness of the universe, filled with 
 # example result
 <img src=ComfyUI_temp_rlunc_00005_.png />
 
+-----------------------------------------------------------------------------------------
+
+Full-body photo of a beautiful 20-year-old woman (big breasts), smiling, round eyes looking at the viewer, wearing a light yellow short-sleeved knitted shirt with a ruffled front tied with a bow, wearing a short white skirt, wearing black high heels, holding a sign that says "I Love Ton", the background is a pub shop at night.
+
+# example result
+<img src=ComfyUI_temp_rlunc_00006_.png />
+
