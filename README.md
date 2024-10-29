@@ -10,4 +10,10 @@ The sharpest tourist attraction photo with a waterfall flowing into a river, rab
 # example result
 <img src=ComfyUI_temp_rlunc_00003_.png />
 
+-----------------------------------------------------------------------------------------
+
+An 18-year-old Vietnamese girl(ฺBig Breast) wearing a cream-colored short-sleeved dress with front buttons, round eyes looking at the audience, long beautiful black hair, a snow-covered street in the background, light snow falling,
+
+# example result
+<img src=ComfyUI_temp_rlunc_00004_.png />
 
