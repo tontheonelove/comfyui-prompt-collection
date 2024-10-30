@@ -54,4 +54,4 @@ HD photo of a beautiful 18-year-old girl (big breasts) wearing a white tank top,
 The cover of an entertainment magazine features a photo of an 18-year-old Chinese woman wearing a red tank top (large breasts), round eyes looking at the audience.
 
 # example result
-<img src=ComfyUI_temp_rlunc_000010_.png />
+<img src=ComfyUI_temp_tulcn_000010_.png />
