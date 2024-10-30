@@ -60,4 +60,4 @@ The cover of an entertainment magazine features a photo of an 18-year-old Chines
 Cover image of the movie, a 20-year-old woman wearing a white ancient Chinese dress, riding a white horse, with beautiful black long hair, holding a long sword in one hand, the background is on the battlefield,
 
 # example result
-<img src=ComfyUI_temp_tulcn_000010_.png />
+<img src=ComfyUI_temp_xpixv_000011_.png />
