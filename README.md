@@ -2,7 +2,7 @@
 
 Beautiful Asian girl in black cosplay costume, open chest, big breasts, wearing a bunny hat, blue eyes , high quality , 4k
 # example result
-<img src=ComfyUI_00009_.png />
+<img src=ComfyUI_00012_.png />
 -----------------------------------------------------------------------------------------
 Beautiful Asian girl in school uniform, big breasts, slightly unbuttoned shirt, short skirt, sitting at a desk in a classroom, with a blackboard in the background with the words Flux written on it. , high quality , 4k
 # example result
