@@ -1,5 +1,9 @@
 # comfyui-prompt-collection
 
+Beautiful Asian girl in school uniform, big breasts, slightly unbuttoned shirt, short skirt, sitting at a desk in a classroom, with a blackboard in the background with the words Flux written on it. , high quality , 4k
+# example result
+<img src=ComfyUI_00009_.png />
+
 Beautiful Asian girl wearing a school uniform, background of falling snow. , high quality , 4k
 # example result
 <img src=ComfyUI_00008_.png />
