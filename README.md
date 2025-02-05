@@ -1,13 +1,16 @@
 # comfyui-prompt-collection
 
+Beautiful Asian girl in black cosplay costume, open chest, big breasts, wearing a bunny hat, blue eyes , high quality , 4k
+# example result
+<img src=ComfyUI_00009_.png />
+-----------------------------------------------------------------------------------------
 Beautiful Asian girl in school uniform, big breasts, slightly unbuttoned shirt, short skirt, sitting at a desk in a classroom, with a blackboard in the background with the words Flux written on it. , high quality , 4k
 # example result
 <img src=ComfyUI_00009_.png />
-
+-----------------------------------------------------------------------------------------
 Beautiful Asian girl wearing a school uniform, background of falling snow. , high quality , 4k
 # example result
 <img src=ComfyUI_00008_.png />
-
 -----------------------------------------------------------------------------------------
 A beautiful 18-year-old Chinese girl with long,Big breasts, flowing black hair, wearing a traditional red qipao adorned with delicate floral patterns. She stands in a serene garden, surrounded by cherry blossoms, with a gentle smile that reflects her warm personality. The sunlight filters through the leaves, casting a soft glow on her features, highlighting her bright eyes and graceful posture.
 # example result
