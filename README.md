@@ -1,5 +1,11 @@
 # comfyui-prompt-collection
 
+`A masterpiece, 8k portrait realistic photograph captured with a Canon EOS camera, featuring a cute and beautiful 18-year-old Thai girl , white skin, bright face , full legs , full body. Good figure , seductive smile , pink lip , brown short bob hair. She is dressed a strapless top, crop top, V-neck, red and yellow plaid pattern with small squares, a very short white skirt with a flared hem, with white stripes ruffled throughout the skirt embedded in the fabric , bracelet , earling , necklace , made of a soft, She stand at shopping mall.`
+
+# example result
+<img src="ComfyUI_00026_.png" width="250" />
+
+
 `High resolution full body artist portrait of a beautiful Asian woman standing slightly sideways beside a modern swimming pool with a tranquil mountain view as a backdrop. She has long, straight black hair with bangs, flawless fair skin, and a gentle pose. She wears a tight white tank top and light blue drawstring shorts, which delicately highlight her slender waist and curves. Her pose is natural yet elegant, holding a can of beverage in one hand and gently touching her hair with the other. The background is a modern white villa with sliding doors open, a clear blue swimming pool reflecting sunlight, and green hills under a bright blue sky with thick clouds. The light is natural with soft warm tones, creating realistic shadows and highlights on her skin. The frame has a shallow depth of field, her face and body are in sharp focus while the background is tastefully blurred. The composition is cinematic, expressive, and evokes a calm, introspective mood. Highly detailed textures, realistic lighting, realistic quality, artistic depth. Shot with a full frame DSLR camera lens, f/1.4 aperture.`
 
 # example result
