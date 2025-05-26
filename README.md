@@ -1,5 +1,11 @@
 # comfyui-prompt-collection
 
+ `beautiful woman, brown hair, wearing white tank top, mini tight and fit black side cut shorts with white trim, She lie down on white leather sofa, with a black-screened smartphone next to her, she looking at sky, Golden light streams into a modern living room, white curtain, `
+# example result (with Lora SamsungCam UltraReal)
+<img src="/asset/ComfyUI_00033_.png" width="250" />
+-----------------------------------------------------------------------------------------
+ 
+
  `indoor portrait of a young woman with fair skin and dark hair framing her face. She has a neutral expression and is looking directly at the camera. A light brown towel is wrapped around her head, covering her hair. She is wearing a delicate, light pink lace bra with thin straps. Her arms are raised, with her hands positioned behind her head, holding the towel in place. The background is softly blurred, suggesting an interior setting. Hints of a window with natural light filtering through, curtains, and a potted plant with green leaves are visible.`
  
 # example result (with Lora SamsungCam UltraReal)
