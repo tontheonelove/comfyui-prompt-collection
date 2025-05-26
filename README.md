@@ -1,6 +1,6 @@
 # comfyui-prompt-collection
 
-Beautiful Asian girl wearing a casual dress, long sleeves, round neck, plaid pattern + hat and belt, big breasts, blue eyes , high quality , 4k
+`Beautiful Asian girl wearing a casual dress, long sleeves, round neck, plaid pattern + hat and belt, big breasts, blue eyes , high quality , 4k`
 # example result
 <img src="ComfyUI_00013_.png" width="150" />
 -----------------------------------------------------------------------------------------
