@@ -1,5 +1,11 @@
 # comfyui-prompt-collection
 
+ `indoor portrait of a young woman with fair skin and dark hair framing her face. She has a neutral expression and is looking directly at the camera. A light brown towel is wrapped around her head, covering her hair. She is wearing a delicate, light pink lace bra with thin straps. Her arms are raised, with her hands positioned behind her head, holding the towel in place. The background is softly blurred, suggesting an interior setting. Hints of a window with natural light filtering through, curtains, and a potted plant with green leaves are visible.`
+# example result (with Lora SamsungCam UltraReal)
+<img src="/asset/ComfyUI_00029_.png" width="250" />
+-----------------------------------------------------------------------------------------
+ 
+
 `A free-spirited Japanese beauty with long brown hair tied loosely, strands swaying with the sea breeze. Her skin glows under the sunlight, kissed by a faint tan, and her laughter is spontaneous, radiant, and full of life. She has a wanderlust heart and an irresistible sense of ease.`
 
 # example result
