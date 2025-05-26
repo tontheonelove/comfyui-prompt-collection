@@ -1,5 +1,12 @@
 # comfyui-prompt-collection
 
+
+`High definition artistic portrait of a young Thai woman sitting in the middle of a rice field during sunset. Her body is covered in mud and water realistically, conveying a deep emotion. She has long straight black hair, smooth skin, light makeup, wearing a purple tank top and gray shorts stained with mud. Sitting in a contemplative pose, she turns her back slightly and looks back at the camera with deep sad eyes and a faint smile. Portrait shot with blurred background, the background is a green rice field and a beautiful cloudy sky. The light, shadows and reflections of the water in the rice field are natural, giving a beautiful and profound feeling like a movie.`
+
+# example result
+<img src="/asset/ComfyUI_00027_.png" width="250" />
+-----------------------------------------------------------------------------------------
+
 `A masterpiece, 8k portrait realistic photograph captured with a Canon EOS camera, featuring a cute and beautiful 18-year-old Thai girl , white skin, bright face , full legs , full body. Good figure , seductive smile , pink lip , brown short bob hair. She is dressed a strapless top, crop top, V-neck, red and yellow plaid pattern with small squares, a very short white skirt with a flared hem, with white stripes ruffled throughout the skirt embedded in the fabric , bracelet , earling , necklace , made of a soft, She stand at shopping mall.`
 
 # example result
