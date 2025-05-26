@@ -7,77 +7,77 @@ Beautiful Asian girl wearing a casual dress, long sleeves, round neck, plaid pat
 
 Beautiful Asian girl in black cosplay costume, open chest, big breasts, wearing a bunny hat, blue eyes , high quality , 4k
 # example result
-<img src=ComfyUI_00012_.png />
+<img src="ComfyUI_00012_.png" width="150" />
 -----------------------------------------------------------------------------------------
 
 Beautiful Asian girl in school uniform, big breasts, slightly unbuttoned shirt, short skirt, sitting at a desk in a classroom, with a blackboard in the background with the words Flux written on it. , high quality , 4k
 # example result
-<img src=ComfyUI_00009_.png />
+<img src="ComfyUI_00009_.png" width="150" />
 -----------------------------------------------------------------------------------------
 
 Beautiful Asian girl wearing a school uniform, background of falling snow. , high quality , 4k
 # example result
-<img src=ComfyUI_00008_.png />
+<img src="ComfyUI_00008_.png" width="150" />
 -----------------------------------------------------------------------------------------
 
 A beautiful 18-year-old Chinese girl with long,Big breasts, flowing black hair, wearing a traditional red qipao adorned with delicate floral patterns. She stands in a serene garden, surrounded by cherry blossoms, with a gentle smile that reflects her warm personality. The sunlight filters through the leaves, casting a soft glow on her features, highlighting her bright eyes and graceful posture.
 # example result
-<img src=ComfyUI_temp_rlunc_00001_.png />
+<img src="ComfyUI_temp_rlunc_00001_.png" width="150" />
 
 
 -----------------------------------------------------------------------------------------
 The sharpest tourist attraction photo with a waterfall flowing into a river, rabbits running around, rocks surrounding them, and dragonflies flying over flowers.
 # example result
-<img src=ComfyUI_temp_rlunc_00003_.png />
+<img src="ComfyUI_temp_rlunc_00003_.png" width="150" />
 
 -----------------------------------------------------------------------------------------
 
 An 18-year-old Vietnamese girl(ฺBig Breast) wearing a cream-colored short-sleeved dress with front buttons, round eyes looking at the audience, long beautiful black hair, a snow-covered street in the background, light snow falling,
 
 # example result
-<img src=ComfyUI_temp_rlunc_00004_.png />
+<img src="ComfyUI_temp_rlunc_00004_.png" width="150"/>
 
 -----------------------------------------------------------------------------------------
 
 A breathtaking cosmic scene depicting the vastness of the universe, filled with vibrant nebulae, swirling galaxies, and countless twinkling stars. In the foreground, a silhouette of an astronaut gazes out into the cosmos, surrounded by floating planets and shooting stars. The colors range from deep blues and purples to fiery oranges and pinks, creating a sense of wonder and infinity, evoking the mystery and beauty of space.
 
 # example result
-<img src=ComfyUI_temp_rlunc_00005_.png />
+<img src="ComfyUI_temp_rlunc_00005_.png" width="150" />
 
 -----------------------------------------------------------------------------------------
 
 Full-body photo of a beautiful 20-year-old woman (big breasts), smiling, round eyes looking at the viewer, wearing a light yellow short-sleeved knitted shirt with a ruffled front tied with a bow, wearing a short white skirt, wearing black high heels, holding a sign that says "I Love Ton", the background is a pub shop at night.
 
 # example result
-<img src=ComfyUI_temp_rlunc_00006_.png />
+<img src="ComfyUI_temp_rlunc_00006_.png" width="150" />
 
 -----------------------------------------------------------------------------------------
 
 Photo of a volcano erupting, lava gushing out, covered in smoke around, below the volcano there is a village, people are running away from the village, birds are flying around, being burned by the volcano.
 
 # example result
-<img src=ComfyUI_temp_rlunc_00007_.png />
+<img src="ComfyUI_temp_rlunc_00007_.png" width="150" />
 -----------------------------------------------------------------------------------------
 
 HD photo of a beautiful 18-year-old girl (big breasts) wearing a short-sleeved knitted shirt with crossed chest, round eyes looking at the viewer, beautiful long black hair, a background of railroads, a train is playing nearby.
 
 # example result
-<img src=ComfyUI_temp_rlunc_00008_.png />
+<img src="ComfyUI_temp_rlunc_00008_.png" width="150" />
 
 -----------------------------------------------------------------------------------------
 HD photo of a beautiful 18-year-old girl (big breasts) wearing a white tank top, round blue eyes looking at the viewer, beautiful long brown-red hair, green rice field background.
 
 # example result
-<img src=ComfyUI_temp_rlunc_00009_.png />
+<img src="ComfyUI_temp_rlunc_00009_.png" width="150" />
 
 -----------------------------------------------------------------------------------------
 The cover of an entertainment magazine features a photo of an 18-year-old Chinese woman wearing a red tank top (large breasts), round eyes looking at the audience.
 
 # example result
-<img src=ComfyUI_temp_tulcn_000010_.png />
+<img src="ComfyUI_temp_tulcn_000010_.png" width="150" />
 
 -----------------------------------------------------------------------------------------
 Cover image of the movie, a 20-year-old woman wearing a white ancient Chinese dress, riding a white horse, with beautiful black long hair, holding a long sword in one hand, the background is on the battlefield,
 
 # example result
-<img src=ComfyUI_temp_xpixv_000011_.png />
+<img src="ComfyUI_temp_xpixv_000011_.png" width="150" />
