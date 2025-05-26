@@ -1,5 +1,10 @@
 # comfyui-prompt-collection
 
+`A free-spirited Japanese beauty with long brown hair tied loosely, strands swaying with the sea breeze. Her skin glows under the sunlight, kissed by a faint tan, and her laughter is spontaneous, radiant, and full of life. She has a wanderlust heart and an irresistible sense of ease.`
+
+# example result
+<img src="/asset/ComfyUI_00027_.png" width="250" />
+-----------------------------------------------------------------------------------------
 
 `High definition artistic portrait of a young Thai woman sitting in the middle of a rice field during sunset. Her body is covered in mud and water realistically, conveying a deep emotion. She has long straight black hair, smooth skin, light makeup, wearing a purple tank top and gray shorts stained with mud. Sitting in a contemplative pose, she turns her back slightly and looks back at the camera with deep sad eyes and a faint smile. Portrait shot with blurred background, the background is a green rice field and a beautiful cloudy sky. The light, shadows and reflections of the water in the rice field are natural, giving a beautiful and profound feeling like a movie.`
 
