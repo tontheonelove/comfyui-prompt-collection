@@ -1,5 +1,11 @@
 # comfyui-prompt-collection
 
+`Young, Asian woman, 18-25 age range,  wearing a  pink nurse costume.  Short-sleeved, A-line dress in pastel pink, with white accents and embroidered red crosses.  The costume includes white gloves, matching the dress's color scheme.  The woman stands straight, slightly angled toward the camera, a neutral expression.  Straight black hair.  Soft lighting and pastel pink color scheme.  Simple, minimalist background with a white wall.  Composition is centered on the figure, medium shot.  Slight high-angle view.   Focus on the subject with soft background blur.  A simple stethoscope is part of the costume.  The overall atmosphere is  sweet and simple,  almost like a  cute photoshoot.  Photorealistic style.`
+
+# example result
+<img src="/asset/ComfyUI_00013_.png" width="250" />
+-----------------------------------------------------------------------------------------
+
 `8K high resolution digital footage of A serene camping scene by a clear stream. A green tent is pitched on the bank of a small, flowing river, positioned slightly to the left of center.  A wooden picnic table with camping gear and a campfire are situated next to the tent. The campfire is burning brightly, with flames and embers visible in the fire pit.  The surrounding environment features lush green trees and foliage, with the natural light reflecting on the still water.  The colors are natural and earthy, with shades of green, brown, and gray.  The atmosphere is tranquil and inviting, evoking a sense of peaceful relaxation in nature. The perspective is from a slightly elevated position, looking down on the campsite.  Rocks and small pebbles are visible in the stream bed.  The composition is balanced and engaging, showcasing the beauty of the natural surroundings. The overall style is straightforward and realistic, capturing the peaceful mood of a camping experience.`
 
 # example result
