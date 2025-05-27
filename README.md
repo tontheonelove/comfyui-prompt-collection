@@ -1,5 +1,11 @@
 # comfyui-prompt-collection
 
+`8K high resolution digital footage of a rice field full of the best atmosphere, in the rice field there is rice and water, the sky has a group of clouds, there is a thin ray of sunlight passing through the camera, there is a group of birds in the sky flying by, professional photography, whether it is the details, clarity and the best camera angle.`
+
+ # example result
+<img src="/asset/ComfyUI_00008_.png" width="250" />
+-----------------------------------------------------------------------------------------
+
  `A 20-year-old girl long brown hair tied into a ponytail sits in a luxurious oval-shaped hot tub filled with lots of white bubbles. She looks relaxed and friendly, smiling gently at the camera. Her body language is casual and easygoing as she sits in a relaxing pose in the tub. She is nude and has a fair to medium complexion. The soft and natural lighting emphasizes the warm and inviting atmosphere of this scene. The hot tub has a smooth, shiny white surface and is located in a high-end hotel or villa. A panoramic view of the ocean, the city, and a partly cloudy sky can be seen through the large windows behind her. The backdrop shows a calm cityscape and ocean, creating a balanced composition. The colors are soft pastel tones, mostly light blue, white, and cream, emphasizing a sense of calm and relaxation. The atmosphere is quiet and peaceful, evoking a sense of escape and luxury. The overall style is contemporary and elegant, emphasizing the beauty of the setting and the person’s calm demeanor. `
 
  # example result
