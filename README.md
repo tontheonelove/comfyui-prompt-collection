@@ -1,5 +1,13 @@
 # comfyui-prompt-collection
 
+ `a serene morning landscape scene featuring soft golden sunlight filtering through tall pine trees, gentle fog lingering in the distance over rolling green hills, a steaming cup of coffee placed on a rustic wooden table in the foreground, tiny droplets of morning dew glistening on nearby grass and leaves, light rays casting a peaceful glow across the scene, birds flying gently in the background, cinematic composition with a warm color palette — realistic natural lighting, high-detail textures on the coffee cup and wood grain, tranquil and inspiring morning atmosphere `
+
+ # example result (with Lora NSFW MASTER FLUX)
+<img src="/asset/ComfyUI_00034_.png" width="250" />
+-----------------------------------------------------------------------------------------
+
+
+
  `High-resolution artistic portrait of a full-length Asian woman standing on the railing of a high-rise building at night. She has fair skin and a slim figure. She wears a white crop top with a pink Hello Kitty cartoon print that is lifted up to reveal part of her breasts and thin pink panties with a delicate string and a small pink string tied around her waist. Her light brown long hair is left down and flowing naturally.
 She poses confidently and expressively, with one hand on her head and the other on her hip, with her head turned to the side, conveying a playful yet sexy mood.
 The background shows a blurred city skyline filled with sparkling light, which adds depth to the image. The model is in sharp focus with realistic skin textures and hair details. The lighting is soft and natural, with precise highlights and shadows to give the image a moody and emotional atmosphere.
