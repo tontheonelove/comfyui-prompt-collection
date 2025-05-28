@@ -1,5 +1,15 @@
 # comfyui-prompt-collection
 
+| Result (Flux)      | Download Link                                                                                                                                           |    Lora                      |
+|--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|
+| <img src="/asset/ComfyUI_00020_.png" width="250" />      | 🤗 [Huggingface](https://huggingface.co/Wan-AI/Wan2.1-T2V-14B)      🤖 [ModelScope](https://www.modelscope.cn/models/Wan-AI/Wan2.1-T2V-14B)             | Supports both 480P and 720P
+| I2V-14B-720P | 🤗 [Huggingface](https://huggingface.co/Wan-AI/Wan2.1-I2V-14B-720P)    🤖 [ModelScope](https://www.modelscope.cn/models/Wan-AI/Wan2.1-I2V-14B-720P)     | Supports 720P
+| I2V-14B-480P | 🤗 [Huggingface](https://huggingface.co/Wan-AI/Wan2.1-I2V-14B-480P)    🤖 [ModelScope](https://www.modelscope.cn/models/Wan-AI/Wan2.1-I2V-14B-480P)     | Supports 480P
+| T2V-1.3B     | 🤗 [Huggingface](https://huggingface.co/Wan-AI/Wan2.1-T2V-1.3B)     🤖 [ModelScope](https://www.modelscope.cn/models/Wan-AI/Wan2.1-T2V-1.3B)            | Supports 480P
+| FLF2V-14B    | 🤗 [Huggingface](https://huggingface.co/Wan-AI/Wan2.1-FLF2V-14B-720P)     🤖 [ModelScope](https://www.modelscope.cn/models/Wan-AI/Wan2.1-FLF2V-14B-720P) | Supports 720P
+| VACE-1.3B    | 🤗 [Huggingface](https://huggingface.co/Wan-AI/Wan2.1-VACE-1.3B)     🤖 [ModelScope](https://www.modelscope.cn/models/Wan-AI/Wan2.1-VACE-1.3B)          | Supports 480P
+| VACE-14B     | 🤗 [Huggingface](https://huggingface.co/Wan-AI/Wan2.1-VACE-14B)     🤖 [ModelScope](https://www.modelscope.cn/models/Wan-AI/Wan2.1-VACE-14B)        | Supports both 480P and 720P
+
 `Two young Asian women, likely in their late teens or early twenties, stand side-by-side, posing for a photo.  The woman on the left has shoulder-length, vibrant crimson-red hair. She wears a fitted, white cropped top, buttoned at the center, and medium-wash blue denim mini-skirt with cargo pockets. Her skin tone is light. The woman on the right has shoulder-length, light brown hair.  She wears a sheer, off-white corset-style top adorned with delicate, feathery textures, and dark-gray, wide-leg jeans.  Her skin tone is light.  Both women have neutral expressions, relaxed and friendly, light makeup.  They maintain eye contact.  Their body language suggests comfort and a relaxed social setting.  The background displays a vibrant red wall, with dark-toned framed doors.  The lighting is natural, highlighting the subjects, creating a soft, even illumination that casts no harsh shadows.  The overall style is casual and fashionable. The composition is centered, and the camera angle is a slightly elevated, medium shot, directly facing the women. The atmosphere is friendly, upbeat, and social, capturing a moment of interaction and connection.  Fashionable contemporary style, candid portrait.`
 
 # example result
