@@ -2,7 +2,7 @@
 
 | Result (Flux)      | Prompt                                                                                                                                         |    Lora                      |
 |--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|
-| <img src="/asset/ComfyUI_00020_.png" width="150" high="150" />      | 🤗 [Prompt](prompt/Two%20young%20Asian%20women.md)      | SamsungCam UltraReal
+| <img src="/asset/ComfyUI_00020_.png" width="150" />      | 🤗 [Prompt](prompt/Two%20young%20Asian%20women.md)      | SamsungCam UltraReal
 | <img src="/asset/ComfyUI_00019_.png" width="150" /> | 🤗 [Prompt](prompt/Full%20shot%20of%20road%20at%20night%20under%20a%20bright%20full%20moon.md)  | SamsungCam UltraReal
 | I2V-14B-480P | 🤗 [Huggingface](https://huggingface.co/Wan-AI/Wan2.1-I2V-14B-480P)
 | T2V-1.3B     | 🤗 [Huggingface](https://huggingface.co/Wan-AI/Wan2.1-T2V-1.3B)       | Supports 480P
