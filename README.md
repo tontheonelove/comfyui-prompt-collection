@@ -3,11 +3,11 @@
 | Result (Flux)      | Prompt                                                                                                                                         |    Lora                      |
 |--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|
 | <img src="/asset/ComfyUI_00020_.png" width="150" />      | 🤗 [Prompt](prompt/Two%20young%20Asian%20women.md)      | [SamsungCam UltraReal](https://civitai.green/models/1551668/samsungcam-ultrareal?modelVersionId=1755780)
-| <img src="/asset/ComfyUI_00019_.png" width="150" /> | 🤗 [Prompt](prompt/Full%20shot%20of%20road%20at%20night%20under%20a%20bright%20full%20moon.md)  | SamsungCam UltraReal
-| <img src="/asset/ComfyUI_00014_.png" width="150" /> | 🤗 [Prompt](prompt/Young%20woman%2C%20late%20teens%20to%20early%20twenties.md) | SamsungCam UltraReal
-| <img src="/asset/ComfyUI_00013_.png" width="150" /> | 🤗 [Prompt](prompt/pink%20nurse%20costume.md)       | SamsungCam UltraReal
-| <img src="/asset/ComfyUI_00009_.png" width="150" />  | 🤗 [Prompt](prompt/%608K%20high%20resolution%20digital%20footage%20of%20A%20serene%20camping.md)  | SamsungCam UltraReal
-| <img src="/asset/ComfyUI_00008_.png" width="150" />   | 🤗 [Prompt](prompt/8K%20high%20resolution%20digital%20footage%20of%20a%20rice%20field%20full.md)       | SamsungCam UltraReal
+| <img src="/asset/ComfyUI_00019_.png" width="150" /> | 🤗 [Prompt](prompt/Full%20shot%20of%20road%20at%20night%20under%20a%20bright%20full%20moon.md)  | [SamsungCam UltraReal](https://civitai.green/models/1551668/samsungcam-ultrareal?modelVersionId=1755780)
+| <img src="/asset/ComfyUI_00014_.png" width="150" /> | 🤗 [Prompt](prompt/Young%20woman%2C%20late%20teens%20to%20early%20twenties.md) | [SamsungCam UltraReal](https://civitai.green/models/1551668/samsungcam-ultrareal?modelVersionId=1755780)
+| <img src="/asset/ComfyUI_00013_.png" width="150" /> | 🤗 [Prompt](prompt/pink%20nurse%20costume.md)       | [SamsungCam UltraReal](https://civitai.green/models/1551668/samsungcam-ultrareal?modelVersionId=1755780)
+| <img src="/asset/ComfyUI_00009_.png" width="150" />  | 🤗 [Prompt](prompt/%608K%20high%20resolution%20digital%20footage%20of%20A%20serene%20camping.md)  | [SamsungCam UltraReal](https://civitai.green/models/1551668/samsungcam-ultrareal?modelVersionId=1755780)
+| <img src="/asset/ComfyUI_00008_.png" width="150" />   | 🤗 [Prompt](prompt/8K%20high%20resolution%20digital%20footage%20of%20a%20rice%20field%20full.md)       | [SamsungCam UltraReal](https://civitai.green/models/1551668/samsungcam-ultrareal?modelVersionId=1755780)
 | VACE-14B     | 🤗 [Prompt](https://huggingface.co/Wan-AI/Wan2.1-VACE-14B)      | SamsungCam UltraReal
 
 
