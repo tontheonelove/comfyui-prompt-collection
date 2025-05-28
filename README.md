@@ -10,10 +10,6 @@
 | VACE-1.3B    | 🤗 [Huggingface](https://huggingface.co/Wan-AI/Wan2.1-VACE-1.3B)       | Supports 480P
 | VACE-14B     | 🤗 [Huggingface](https://huggingface.co/Wan-AI/Wan2.1-VACE-14B)      | Supports both 480P and 720P
 
-
-`Young woman, late teens to early twenties, lying on a white bed.  Soft, natural light illuminates her.  She wears a simple, white, short-sleeved, cropped top and matching white shorts.  Her hair is pulled back in a bun.  Her expression is calm and relaxed, with a gentle smile.  She holds a magazine in her hands.  The bed is draped in pristine white sheets, and there is a light beige headboard.  A light beige teddy bear and a light beige stuffed animal are also on the bed. A soft pink blanket or throw lies partially draped on the bed, complementing the pale color scheme.  The composition is a high-angle, slightly overhead view, focusing on the woman lying on the bed.  The focus is soft and gently highlights the subject.  The overall color palette is pale and bright.  The image evokes a tranquil, relaxed, and soft aesthetic.  The lighting is natural, diffused, and casts no harsh shadows.  The texture of the bedding and clothing is smooth and delicate.  The mood is serene and inviting.  Pastel aesthetic.  Candid portrait.`
-
-# example result
 <img src="/asset/ComfyUI_00014_.png" width="250" />
 -----------------------------------------------------------------------------------------
 
