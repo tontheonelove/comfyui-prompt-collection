@@ -10,11 +10,8 @@
 | VACE-1.3B    | 🤗 [Prompt](https://huggingface.co/Wan-AI/Wan2.1-VACE-1.3B)       | SamsungCam UltraReal
 | VACE-14B     | 🤗 [Prompt](https://huggingface.co/Wan-AI/Wan2.1-VACE-14B)      | SamsungCam UltraReal
 
-`8K high resolution digital footage of A serene camping scene by a clear stream. A green tent is pitched on the bank of a small, flowing river, positioned slightly to the left of center.  A wooden picnic table with camping gear and a campfire are situated next to the tent. The campfire is burning brightly, with flames and embers visible in the fire pit.  The surrounding environment features lush green trees and foliage, with the natural light reflecting on the still water.  The colors are natural and earthy, with shades of green, brown, and gray.  The atmosphere is tranquil and inviting, evoking a sense of peaceful relaxation in nature. The perspective is from a slightly elevated position, looking down on the campsite.  Rocks and small pebbles are visible in the stream bed.  The composition is balanced and engaging, showcasing the beauty of the natural surroundings. The overall style is straightforward and realistic, capturing the peaceful mood of a camping experience.`
-
-# example result
 <img src="/asset/ComfyUI_00009_.png" width="250" />
------------------------------------------------------------------------------------------
+
 
 `8K high resolution digital footage of a rice field full of the best atmosphere, in the rice field there is rice and water, the sky has a group of clouds, there is a thin ray of sunlight passing through the camera, there is a group of birds in the sky flying by, professional photography, whether it is the details, clarity and the best camera angle.`
 
