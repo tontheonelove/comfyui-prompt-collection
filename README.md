@@ -2,7 +2,7 @@
 
 | Result (Flux)      | Prompt                                                                                                                                         |    Lora                      |
 |--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|
-| <img src="/asset/ComfyUI_00020_.png" width="250" />      | 🤗[Prompt]([https://github.com/tontheonelove/comfyui-prompt-collection/blob/main/prompt/Two%20young%20Asian%20women.md])       | Supports both 480P and 720P
+| <img src="/asset/ComfyUI_00020_.png" width="250" />      | 🤗[Prompt]([prompt/Two young Asian women.md])       | Supports both 480P and 720P
 | I2V-14B-720P | 🤗 [Huggingface](https://huggingface.co/Wan-AI/Wan2.1-I2V-14B-720P)  
 | I2V-14B-480P | 🤗 [Huggingface](https://huggingface.co/Wan-AI/Wan2.1-I2V-14B-480P)
 | T2V-1.3B     | 🤗 [Huggingface](https://huggingface.co/Wan-AI/Wan2.1-T2V-1.3B)       | Supports 480P
