@@ -7,12 +7,9 @@
 | <img src="/asset/ComfyUI_00014_.png" width="150" /> | 🤗 [Prompt](prompt/Young%20woman%2C%20late%20teens%20to%20early%20twenties.md) | SamsungCam UltraReal
 | <img src="/asset/ComfyUI_00013_.png" width="150" /> | 🤗 [Prompt](prompt/pink%20nurse%20costume.md)       | SamsungCam UltraReal
 | <img src="/asset/ComfyUI_00009_.png" width="150" />  | 🤗 [Prompt](prompt/%608K%20high%20resolution%20digital%20footage%20of%20A%20serene%20camping.md)  | SamsungCam UltraReal
-| VACE-1.3B    | 🤗 [Prompt](https://huggingface.co/Wan-AI/Wan2.1-VACE-1.3B)       | SamsungCam UltraReal
+| <img src="/asset/ComfyUI_00008_.png" width="150" />   | 🤗 [Prompt](prompt/8K%20high%20resolution%20digital%20footage%20of%20a%20rice%20field%20full.md)       | SamsungCam UltraReal
 | VACE-14B     | 🤗 [Prompt](https://huggingface.co/Wan-AI/Wan2.1-VACE-14B)      | SamsungCam UltraReal
 
-
-<img src="/asset/ComfyUI_00008_.png" width="250" />
------------------------------------------------------------------------------------------
 
  `A 20-year-old girl long brown hair tied into a ponytail sits in a luxurious oval-shaped hot tub filled with lots of white bubbles. She looks relaxed and friendly, smiling gently at the camera. Her body language is casual and easygoing as she sits in a relaxing pose in the tub. She is nude and has a fair to medium complexion. The soft and natural lighting emphasizes the warm and inviting atmosphere of this scene. The hot tub has a smooth, shiny white surface and is located in a high-end hotel or villa. A panoramic view of the ocean, the city, and a partly cloudy sky can be seen through the large windows behind her. The backdrop shows a calm cityscape and ocean, creating a balanced composition. The colors are soft pastel tones, mostly light blue, white, and cream, emphasizing a sense of calm and relaxation. The atmosphere is quiet and peaceful, evoking a sense of escape and luxury. The overall style is contemporary and elegant, emphasizing the beauty of the setting and the person’s calm demeanor. `
 
