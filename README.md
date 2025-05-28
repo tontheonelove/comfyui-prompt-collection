@@ -10,7 +10,6 @@
 | <img src="/asset/ComfyUI_00008_.png" width="150" />   | 🤗 [Prompt](prompt/8K%20high%20resolution%20digital%20footage%20of%20a%20rice%20field%20full.md)       | [SamsungCam UltraReal](https://civitai.green/models/1551668/samsungcam-ultrareal?modelVersionId=1755780)
 | <img src="/asset/ComfyUI_00007_.png" width="150" />     | 🤗 [Prompt](prompt/A%2020-year-old%20girl%20long%20brown%20hair.md)      | NO
 
- `a serene morning landscape scene featuring soft golden sunlight filtering through tall pine trees, gentle fog lingering in the distance over rolling green hills, a steaming cup of coffee placed on a rustic wooden table in the foreground, tiny droplets of morning dew glistening on nearby grass and leaves, light rays casting a peaceful glow across the scene, birds flying gently in the background, cinematic composition with a warm color palette — realistic natural lighting, high-detail textures on the coffee cup and wood grain, tranquil and inspiring morning atmosphere `
 
  # example result (with Lora NSFW MASTER FLUX)
 <img src="/asset/ComfyUI_00002_.png" width="250" />
