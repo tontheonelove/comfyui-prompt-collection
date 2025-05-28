@@ -12,16 +12,12 @@
 | <img src="/asset/ComfyUI_00034_.png" width="150" />     | 🤗 [Prompt](prompt/High-resolution%20artistic%20portrait%20of%20a%20full-length%20Asian%20woma.md)      | [SamsungCam UltraReal](https://civitai.green/models/1551668/samsungcam-ultrareal?modelVersionId=1755780)
 | <img src="/asset/ComfyUI_00033_.png" width="150" />   | 🤗 [Prompt](prompt/beautiful%20woman%2C%20brown%20hair%2C%20wearing%20white%20tank%20top.md)      | [SamsungCam UltraReal](https://civitai.green/models/1551668/samsungcam-ultrareal?modelVersionId=1755780)
 | <img src="/asset/ComfyUI_00031_.png" width="150" />   | 🤗 [Prompt](prompt/indoor%20portrait%20of%20a%20young%20woman%20with%20fair%20skin.md)      | [SamsungCam UltraReal](https://civitai.green/models/1551668/samsungcam-ultrareal?modelVersionId=1755780)
-| <img src="/asset/ComfyUI_00007_.png" width="150" />     | 🤗 [Prompt](prompt/A%2020-year-old%20girl%20long%20brown%20hair.md)      | NO
+| <img src="/asset/ComfyUI_00028_.png" width="150" />     | 🤗 [Prompt](prompt/A%20free-spirited%20Japanese%20beauty%20with%20long%20brown%20hair.md)      | NO
 | <img src="/asset/ComfyUI_00007_.png" width="150" />     | 🤗 [Prompt](prompt/A%2020-year-old%20girl%20long%20brown%20hair.md)      | NO
 | <img src="/asset/ComfyUI_00007_.png" width="150" />     | 🤗 [Prompt](prompt/A%2020-year-old%20girl%20long%20brown%20hair.md)      | NO
 | <img src="/asset/ComfyUI_00007_.png" width="150" />     | 🤗 [Prompt](prompt/A%2020-year-old%20girl%20long%20brown%20hair.md)      | NO
 
 
- 
-# example result
-<img src="/asset/ComfyUI_00028_.png" width="250" />
------------------------------------------------------------------------------------------
 
 `High definition artistic portrait of a young Thai woman sitting in the middle of a rice field during sunset. Her body is covered in mud and water realistically, conveying a deep emotion. She has long straight black hair, smooth skin, light makeup, wearing a purple tank top and gray shorts stained with mud. Sitting in a contemplative pose, she turns her back slightly and looks back at the camera with deep sad eyes and a faint smile. Portrait shot with blurred background, the background is a green rice field and a beautiful cloudy sky. The light, shadows and reflections of the water in the rice field are natural, giving a beautiful and profound feeling like a movie.`
 
