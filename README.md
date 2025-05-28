@@ -15,9 +15,8 @@
 | <img src="/asset/ComfyUI_00028_.png" width="150" />     | 🤗 [Prompt](prompt/A%20free-spirited%20Japanese%20beauty%20with%20long%20brown%20hair.md)      | NO
 | <img src="/asset/ComfyUI_00027_.png" width="150" />   | 🤗 [Prompt](prompt/High%20definition%20artistic%20portrait%20of%20a%20young%20Thai%20woman.md)      | NO
 | <img src="/asset/ComfyUI_00026_.png" width="150" />    | 🤗 [Prompt](prompt/A%20masterpiece%2C%208k%20portrait%20realistic%20photograph.md)      | NO
-| <img src="/asset/ComfyUI_00007_.png" width="150" />     | 🤗 [Prompt](prompt/A%2020-year-old%20girl%20long%20brown%20hair.md)      | NO
+| <img src="/asset/ComfyUI_00025_.png" width="150" />     | 🤗 [Prompt](prompt/High%20resolution%20full%20body%20artist%20portrait%20of%20a%20beautiful%20Asian%20woman.md)      | NO
 
-# example result
-<img src="/asset/ComfyUI_00025_.png" width="250" />
+
 -----------------------------------------------------------------------------------------
 
