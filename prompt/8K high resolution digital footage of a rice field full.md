@@ -1,0 +1,1 @@
+`8K high resolution digital footage of a rice field full of the best atmosphere, in the rice field there is rice and water, the sky has a group of clouds, there is a thin ray of sunlight passing through the camera, there is a group of birds in the sky flying by, professional photography, whether it is the details, clarity and the best camera angle.`
