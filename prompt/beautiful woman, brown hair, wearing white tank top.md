@@ -1,0 +1,1 @@
+ `beautiful woman, brown hair, wearing white tank top, mini tight and fit black side cut shorts with white trim, She lie down on white leather sofa, with a black-screened smartphone next to her, she looking at sky, Golden light streams into a modern living room, white curtain, `
