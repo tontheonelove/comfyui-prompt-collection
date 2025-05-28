@@ -10,10 +10,6 @@
 | VACE-1.3B    | 🤗 [Huggingface](https://huggingface.co/Wan-AI/Wan2.1-VACE-1.3B)       | Supports 480P
 | VACE-14B     | 🤗 [Huggingface](https://huggingface.co/Wan-AI/Wan2.1-VACE-14B)      | Supports both 480P and 720P
 
-
-`Young, Asian woman, 18-25 age range,  wearing a  pink nurse costume.  Short-sleeved, A-line dress in pastel pink, with white accents and embroidered red crosses.  The costume includes white gloves, matching the dress's color scheme.  The woman stands straight, slightly angled toward the camera, a neutral expression.  Straight black hair.  Soft lighting and pastel pink color scheme.  Simple, minimalist background with a white wall.  Composition is centered on the figure, medium shot.  Slight high-angle view.   Focus on the subject with soft background blur.  A simple stethoscope is part of the costume.  The overall atmosphere is  sweet and simple,  almost like a  cute photoshoot.  Photorealistic style.`
-
-# example result
 <img src="/asset/ComfyUI_00013_.png" width="250" />
 -----------------------------------------------------------------------------------------
 
