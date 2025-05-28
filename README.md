@@ -18,11 +18,6 @@
 | <img src="/asset/ComfyUI_00007_.png" width="150" />     | 🤗 [Prompt](prompt/A%2020-year-old%20girl%20long%20brown%20hair.md)      | NO
 | <img src="/asset/ComfyUI_00007_.png" width="150" />     | 🤗 [Prompt](prompt/A%2020-year-old%20girl%20long%20brown%20hair.md)      | NO
 
- `High-resolution artistic portrait of a full-length Asian woman standing on the railing of a high-rise building at night. She has fair skin and a slim figure. She wears a white crop top with a pink Hello Kitty cartoon print that is lifted up to reveal part of her breasts and thin pink panties with a delicate string and a small pink string tied around her waist. Her light brown long hair is left down and flowing naturally.
-She poses confidently and expressively, with one hand on her head and the other on her hip, with her head turned to the side, conveying a playful yet sexy mood.
-The background shows a blurred city skyline filled with sparkling light, which adds depth to the image. The model is in sharp focus with realistic skin textures and hair details. The lighting is soft and natural, with precise highlights and shadows to give the image a moody and emotional atmosphere.
-Realistic and highly detailed lighting and shadows, soft focus on the background, strong depth of field, all body composition, deep and sexy artistic photography `
-
 # example result (with Lora SamsungCam UltraReal)
 <img src="/asset/ComfyUI_00034_.png" width="250" />
 -----------------------------------------------------------------------------------------
