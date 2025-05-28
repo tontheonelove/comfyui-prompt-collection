@@ -19,7 +19,6 @@
 | <img src="/asset/ComfyUI_00007_.png" width="150" />     | 🤗 [Prompt](prompt/A%2020-year-old%20girl%20long%20brown%20hair.md)      | NO
 
 
- `beautiful woman, brown hair, wearing white tank top, mini tight and fit black side cut shorts with white trim, She lie down on white leather sofa, with a black-screened smartphone next to her, she looking at sky, Golden light streams into a modern living room, white curtain, `
 # example result (with Lora SamsungCam UltraReal)
 <img src="/asset/ComfyUI_00033_.png" width="250" />
 -----------------------------------------------------------------------------------------
