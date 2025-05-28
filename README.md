@@ -19,9 +19,6 @@
 
 
  
-
-`A free-spirited Japanese beauty with long brown hair tied loosely, strands swaying with the sea breeze. Her skin glows under the sunlight, kissed by a faint tan, and her laughter is spontaneous, radiant, and full of life. She has a wanderlust heart and an irresistible sense of ease.`
-
 # example result
 <img src="/asset/ComfyUI_00028_.png" width="250" />
 -----------------------------------------------------------------------------------------
