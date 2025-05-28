@@ -13,14 +13,10 @@
 | <img src="/asset/ComfyUI_00033_.png" width="150" />   | 🤗 [Prompt](prompt/beautiful%20woman%2C%20brown%20hair%2C%20wearing%20white%20tank%20top.md)      | [SamsungCam UltraReal](https://civitai.green/models/1551668/samsungcam-ultrareal?modelVersionId=1755780)
 | <img src="/asset/ComfyUI_00031_.png" width="150" />   | 🤗 [Prompt](prompt/indoor%20portrait%20of%20a%20young%20woman%20with%20fair%20skin.md)      | [SamsungCam UltraReal](https://civitai.green/models/1551668/samsungcam-ultrareal?modelVersionId=1755780)
 | <img src="/asset/ComfyUI_00028_.png" width="150" />     | 🤗 [Prompt](prompt/A%20free-spirited%20Japanese%20beauty%20with%20long%20brown%20hair.md)      | NO
-| <img src="/asset/ComfyUI_00007_.png" width="150" />     | 🤗 [Prompt](prompt/A%2020-year-old%20girl%20long%20brown%20hair.md)      | NO
+| <img src="/asset/ComfyUI_00027_.png" width="150" />   | 🤗 [Prompt](prompt/High%20definition%20artistic%20portrait%20of%20a%20young%20Thai%20woman.md)      | NO
 | <img src="/asset/ComfyUI_00007_.png" width="150" />     | 🤗 [Prompt](prompt/A%2020-year-old%20girl%20long%20brown%20hair.md)      | NO
 | <img src="/asset/ComfyUI_00007_.png" width="150" />     | 🤗 [Prompt](prompt/A%2020-year-old%20girl%20long%20brown%20hair.md)      | NO
 
-
-# example result
-<img src="/asset/ComfyUI_00027_.png" width="250" />
------------------------------------------------------------------------------------------
 
 `A masterpiece, 8k portrait realistic photograph captured with a Canon EOS camera, featuring a cute and beautiful 18-year-old Thai girl , white skin, bright face , full legs , full body. Good figure , seductive smile , pink lip , brown short bob hair. She is dressed a strapless top, crop top, V-neck, red and yellow plaid pattern with small squares, a very short white skirt with a flared hem, with white stripes ruffled throughout the skirt embedded in the fabric , bracelet , earling , necklace , made of a soft, She stand at shopping mall.`
 
