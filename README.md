@@ -3,12 +3,12 @@
 | Result (Flux)      | Prompt                                                                                                                                         |    Lora                      |
 |--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|
 | <img src="/asset/ComfyUI_00020_.png" width="250" />      | 🤗 [Huggingface](https://huggingface.co/Wan-AI/Wan2.1-T2V-14B)      🤖 [ModelScope](https://www.modelscope.cn/models/Wan-AI/Wan2.1-T2V-14B)             | Supports both 480P and 720P
-| I2V-14B-720P | 🤗 [Huggingface](https://huggingface.co/Wan-AI/Wan2.1-I2V-14B-720P)    🤖 [ModelScope](https://www.modelscope.cn/models/Wan-AI/Wan2.1-I2V-14B-720P)     | Supports 720P
-| I2V-14B-480P | 🤗 [Huggingface](https://huggingface.co/Wan-AI/Wan2.1-I2V-14B-480P)    🤖 [ModelScope](https://www.modelscope.cn/models/Wan-AI/Wan2.1-I2V-14B-480P)     | Supports 480P
-| T2V-1.3B     | 🤗 [Huggingface](https://huggingface.co/Wan-AI/Wan2.1-T2V-1.3B)     🤖 [ModelScope](https://www.modelscope.cn/models/Wan-AI/Wan2.1-T2V-1.3B)            | Supports 480P
-| FLF2V-14B    | 🤗 [Huggingface](https://huggingface.co/Wan-AI/Wan2.1-FLF2V-14B-720P)     🤖 [ModelScope](https://www.modelscope.cn/models/Wan-AI/Wan2.1-FLF2V-14B-720P) | Supports 720P
-| VACE-1.3B    | 🤗 [Huggingface](https://huggingface.co/Wan-AI/Wan2.1-VACE-1.3B)     🤖 [ModelScope](https://www.modelscope.cn/models/Wan-AI/Wan2.1-VACE-1.3B)          | Supports 480P
-| VACE-14B     | 🤗 [Huggingface](https://huggingface.co/Wan-AI/Wan2.1-VACE-14B)     🤖 [ModelScope](https://www.modelscope.cn/models/Wan-AI/Wan2.1-VACE-14B)        | Supports both 480P and 720P
+| I2V-14B-720P | 🤗 [Huggingface](https://huggingface.co/Wan-AI/Wan2.1-I2V-14B-720P)  
+| I2V-14B-480P | 🤗 [Huggingface](https://huggingface.co/Wan-AI/Wan2.1-I2V-14B-480P)
+| T2V-1.3B     | 🤗 [Huggingface](https://huggingface.co/Wan-AI/Wan2.1-T2V-1.3B)       | Supports 480P
+| FLF2V-14B    | 🤗 [Huggingface](https://huggingface.co/Wan-AI/Wan2.1-FLF2V-14B-720P)  | Supports 720P
+| VACE-1.3B    | 🤗 [Huggingface](https://huggingface.co/Wan-AI/Wan2.1-VACE-1.3B)       | Supports 480P
+| VACE-14B     | 🤗 [Huggingface](https://huggingface.co/Wan-AI/Wan2.1-VACE-14B)      | Supports both 480P and 720P
 
 
 `Full shot of road at night under a bright full moon.  Golden wheat field stretches out on both sides of a winding dirt road, bathed in the soft, warm glow of the moon.  A full moon is prominently featured in the sky, positioned high above the landscape. with the road curving gently into the distance.  The sky is filled with soft, textured clouds, creating a dreamy, idyllic atmosphere.  Warm tones dominate the image, with muted yellow, beige, and brown hues of the wheat fields and the road, contrasting subtly with the darker tones of the shadows in the image.  The lighting is soft and atmospheric, casting a gentle glow on the scene, emphasizing the tranquil beauty of the setting.  The mood is peaceful and reflective.  giving a nostalgic feel to the scene.  The image conveys a sense of calm and serenity, with a focus on the natural beauty of the countryside at night.`
