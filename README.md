@@ -1,6 +1,8 @@
 
 <h1 align="center">🔥comfyui-prompt-collection By Ton🔥</h1>
 
+## update 28 - 5 - 25
+
 | Result (Flux)      | Prompt                                                                                                                                         |    Lora                      |
 |--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|
 | <img src="/asset/ComfyUI_00020_.png" width="150" />      | 🤗 [Prompt](prompt/Two%20young%20Asian%20women.md)      | [SamsungCam UltraReal](https://civitai.green/models/1551668/samsungcam-ultrareal?modelVersionId=1755780)
