@@ -17,9 +17,6 @@
 | <img src="/asset/ComfyUI_00026_.png" width="150" />    | 🤗 [Prompt](prompt/A%20masterpiece%2C%208k%20portrait%20realistic%20photograph.md)      | NO
 | <img src="/asset/ComfyUI_00007_.png" width="150" />     | 🤗 [Prompt](prompt/A%2020-year-old%20girl%20long%20brown%20hair.md)      | NO
 
-
-`High resolution full body artist portrait of a beautiful Asian woman standing slightly sideways beside a modern swimming pool with a tranquil mountain view as a backdrop. She has long, straight black hair with bangs, flawless fair skin, and a gentle pose. She wears a tight white tank top and light blue drawstring shorts, which delicately highlight her slender waist and curves. Her pose is natural yet elegant, holding a can of beverage in one hand and gently touching her hair with the other. The background is a modern white villa with sliding doors open, a clear blue swimming pool reflecting sunlight, and green hills under a bright blue sky with thick clouds. The light is natural with soft warm tones, creating realistic shadows and highlights on her skin. The frame has a shallow depth of field, her face and body are in sharp focus while the background is tastefully blurred. The composition is cinematic, expressive, and evokes a calm, introspective mood. Highly detailed textures, realistic lighting, realistic quality, artistic depth. Shot with a full frame DSLR camera lens, f/1.4 aperture.`
-
 # example result
 <img src="/asset/ComfyUI_00025_.png" width="250" />
 -----------------------------------------------------------------------------------------
