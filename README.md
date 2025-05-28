@@ -5,7 +5,6 @@
 
 | Result (Flux)      | Prompt                                                                                                                                         |    Lora                      |
 |--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|
-
 | <img src="/asset/ComfyUI_00024_.png" width="150" />     | 🤗 [Prompt](prompt/Full%20moon%20illuminating%20a%20winding%20dirt%20path%20through%20a%20grassy%20field%20at%20night.md)      | [SamsungCam UltraReal](https://civitai.green/models/1551668/samsungcam-ultrareal?modelVersionId=1755780)
 | <img src="/asset/ComfyUI_00020_.png" width="150" />      | 🤗 [Prompt](prompt/Two%20young%20Asian%20women.md)      | [SamsungCam UltraReal](https://civitai.green/models/1551668/samsungcam-ultrareal?modelVersionId=1755780)
 | <img src="/asset/ComfyUI_00019_.png" width="150" /> | 🤗 [Prompt](prompt/Full%20shot%20of%20road%20at%20night%20under%20a%20bright%20full%20moon.md)  | [SamsungCam UltraReal](https://civitai.green/models/1551668/samsungcam-ultrareal?modelVersionId=1755780)
