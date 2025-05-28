@@ -19,9 +19,6 @@
 | <img src="/asset/ComfyUI_00007_.png" width="150" />     | 🤗 [Prompt](prompt/A%2020-year-old%20girl%20long%20brown%20hair.md)      | NO
 
  
-
- `indoor portrait of a young woman with fair skin and dark hair framing her face. She has a neutral expression and is looking directly at the camera. A light brown towel is wrapped around her head, covering her hair. She is wearing a delicate, light pink lace bra with thin straps. Her arms are raised, with her hands positioned behind her head, holding the towel in place. The background is softly blurred, suggesting an interior setting. Hints of a window with natural light filtering through, curtains, and a potted plant with green leaves are visible.`
- 
 # example result (with Lora SamsungCam UltraReal)
 <img src="/asset/ComfyUI_00031_.png" width="250" />
 -----------------------------------------------------------------------------------------
