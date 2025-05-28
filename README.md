@@ -1,6 +1,6 @@
 # comfyui-prompt-collection
 
-| Result (Flux)      | Download Link                                                                                                                                           |    Lora                      |
+| Result (Flux)      | Prompt                                                                                                                                         |    Lora                      |
 |--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|
 | <img src="/asset/ComfyUI_00020_.png" width="250" />      | 🤗 [Huggingface](https://huggingface.co/Wan-AI/Wan2.1-T2V-14B)      🤖 [ModelScope](https://www.modelscope.cn/models/Wan-AI/Wan2.1-T2V-14B)             | Supports both 480P and 720P
 | I2V-14B-720P | 🤗 [Huggingface](https://huggingface.co/Wan-AI/Wan2.1-I2V-14B-720P)    🤖 [ModelScope](https://www.modelscope.cn/models/Wan-AI/Wan2.1-I2V-14B-720P)     | Supports 720P
