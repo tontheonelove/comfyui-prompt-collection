@@ -4,14 +4,12 @@
 |--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|
 | <img src="/asset/ComfyUI_00020_.png" width="150" />      | 🤗 [Prompt](prompt/Two%20young%20Asian%20women.md)      | SamsungCam UltraReal
 | <img src="/asset/ComfyUI_00019_.png" width="150" /> | 🤗 [Prompt](prompt/Full%20shot%20of%20road%20at%20night%20under%20a%20bright%20full%20moon.md)  | SamsungCam UltraReal
-| I2V-14B-480P | 🤗 [Huggingface](https://huggingface.co/Wan-AI/Wan2.1-I2V-14B-480P)
+| <img src="/asset/ComfyUI_00014_.png" width="150" /> | 🤗 [Huggingface](prompt/Young%20woman%2C%20late%20teens%20to%20early%20twenties.md) | No
 | T2V-1.3B     | 🤗 [Huggingface](https://huggingface.co/Wan-AI/Wan2.1-T2V-1.3B)       | Supports 480P
 | FLF2V-14B    | 🤗 [Huggingface](https://huggingface.co/Wan-AI/Wan2.1-FLF2V-14B-720P)  | Supports 720P
 | VACE-1.3B    | 🤗 [Huggingface](https://huggingface.co/Wan-AI/Wan2.1-VACE-1.3B)       | Supports 480P
 | VACE-14B     | 🤗 [Huggingface](https://huggingface.co/Wan-AI/Wan2.1-VACE-14B)      | Supports both 480P and 720P
 
-<img src="/asset/ComfyUI_00014_.png" width="250" />
------------------------------------------------------------------------------------------
 
 `Young, Asian woman, 18-25 age range,  wearing a  pink nurse costume.  Short-sleeved, A-line dress in pastel pink, with white accents and embroidered red crosses.  The costume includes white gloves, matching the dress's color scheme.  The woman stands straight, slightly angled toward the camera, a neutral expression.  Straight black hair.  Soft lighting and pastel pink color scheme.  Simple, minimalist background with a white wall.  Composition is centered on the figure, medium shot.  Slight high-angle view.   Focus on the subject with soft background blur.  A simple stethoscope is part of the costume.  The overall atmosphere is  sweet and simple,  almost like a  cute photoshoot.  Photorealistic style.`
 
