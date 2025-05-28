@@ -17,9 +17,6 @@
 | <img src="/asset/ComfyUI_00007_.png" width="150" />     | 🤗 [Prompt](prompt/A%2020-year-old%20girl%20long%20brown%20hair.md)      | NO
 | <img src="/asset/ComfyUI_00007_.png" width="150" />     | 🤗 [Prompt](prompt/A%2020-year-old%20girl%20long%20brown%20hair.md)      | NO
 
-
-`A masterpiece, 8k portrait realistic photograph captured with a Canon EOS camera, featuring a cute and beautiful 18-year-old Thai girl , white skin, bright face , full legs , full body. Good figure , seductive smile , pink lip , brown short bob hair. She is dressed a strapless top, crop top, V-neck, red and yellow plaid pattern with small squares, a very short white skirt with a flared hem, with white stripes ruffled throughout the skirt embedded in the fabric , bracelet , earling , necklace , made of a soft, She stand at shopping mall.`
-
 # example result
 <img src="/asset/ComfyUI_00026_.png" width="250" />
 -----------------------------------------------------------------------------------------
