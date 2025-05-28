@@ -4,14 +4,11 @@
 |--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|
 | <img src="/asset/ComfyUI_00020_.png" width="150" />      | 🤗 [Prompt](prompt/Two%20young%20Asian%20women.md)      | SamsungCam UltraReal
 | <img src="/asset/ComfyUI_00019_.png" width="150" /> | 🤗 [Prompt](prompt/Full%20shot%20of%20road%20at%20night%20under%20a%20bright%20full%20moon.md)  | SamsungCam UltraReal
-| <img src="/asset/ComfyUI_00014_.png" width="150" /> | 🤗 [Huggingface](prompt/Young%20woman%2C%20late%20teens%20to%20early%20twenties.md) | SamsungCam UltraReal
-| T2V-1.3B     | 🤗 [Huggingface](https://huggingface.co/Wan-AI/Wan2.1-T2V-1.3B)       | Supports 480P
-| FLF2V-14B    | 🤗 [Huggingface](https://huggingface.co/Wan-AI/Wan2.1-FLF2V-14B-720P)  | Supports 720P
-| VACE-1.3B    | 🤗 [Huggingface](https://huggingface.co/Wan-AI/Wan2.1-VACE-1.3B)       | Supports 480P
-| VACE-14B     | 🤗 [Huggingface](https://huggingface.co/Wan-AI/Wan2.1-VACE-14B)      | Supports both 480P and 720P
-
-<img src="/asset/ComfyUI_00013_.png" width="250" />
------------------------------------------------------------------------------------------
+| <img src="/asset/ComfyUI_00014_.png" width="150" /> | 🤗 [Prompt](prompt/Young%20woman%2C%20late%20teens%20to%20early%20twenties.md) | SamsungCam UltraReal
+| <img src="/asset/ComfyUI_00013_.png" width="150" /> | 🤗 [Prompt](prompt/pink%20nurse%20costume.md)       | SamsungCam UltraReal
+| FLF2V-14B    | 🤗 [Prompt](https://huggingface.co/Wan-AI/Wan2.1-FLF2V-14B-720P)  | SamsungCam UltraReal
+| VACE-1.3B    | 🤗 [Prompt](https://huggingface.co/Wan-AI/Wan2.1-VACE-1.3B)       | SamsungCam UltraReal
+| VACE-14B     | 🤗 [Prompt](https://huggingface.co/Wan-AI/Wan2.1-VACE-14B)      | SamsungCam UltraReal
 
 `8K high resolution digital footage of A serene camping scene by a clear stream. A green tent is pitched on the bank of a small, flowing river, positioned slightly to the left of center.  A wooden picnic table with camping gear and a campfire are situated next to the tent. The campfire is burning brightly, with flames and embers visible in the fire pit.  The surrounding environment features lush green trees and foliage, with the natural light reflecting on the still water.  The colors are natural and earthy, with shades of green, brown, and gray.  The atmosphere is tranquil and inviting, evoking a sense of peaceful relaxation in nature. The perspective is from a slightly elevated position, looking down on the campsite.  Rocks and small pebbles are visible in the stream bed.  The composition is balanced and engaging, showcasing the beauty of the natural surroundings. The overall style is straightforward and realistic, capturing the peaceful mood of a camping experience.`
 
