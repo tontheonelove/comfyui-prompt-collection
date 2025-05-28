@@ -1,5 +1,11 @@
 # comfyui-prompt-collection
 
+`Full shot of road at night under a bright full moon.  Golden wheat field stretches out on both sides of a winding dirt road, bathed in the soft, warm glow of the moon.  A full moon is prominently featured in the sky, positioned high above the landscape. with the road curving gently into the distance.  The sky is filled with soft, textured clouds, creating a dreamy, idyllic atmosphere.  Warm tones dominate the image, with muted yellow, beige, and brown hues of the wheat fields and the road, contrasting subtly with the darker tones of the shadows in the image.  The lighting is soft and atmospheric, casting a gentle glow on the scene, emphasizing the tranquil beauty of the setting.  The mood is peaceful and reflective.  giving a nostalgic feel to the scene.  The image conveys a sense of calm and serenity, with a focus on the natural beauty of the countryside at night.`
+
+# example result
+<img src="/asset/ComfyUI_00019_.png" width="250" />
+-----------------------------------------------------------------------------------------
+
 `Young woman, late teens to early twenties, lying on a white bed.  Soft, natural light illuminates her.  She wears a simple, white, short-sleeved, cropped top and matching white shorts.  Her hair is pulled back in a bun.  Her expression is calm and relaxed, with a gentle smile.  She holds a magazine in her hands.  The bed is draped in pristine white sheets, and there is a light beige headboard.  A light beige teddy bear and a light beige stuffed animal are also on the bed. A soft pink blanket or throw lies partially draped on the bed, complementing the pale color scheme.  The composition is a high-angle, slightly overhead view, focusing on the woman lying on the bed.  The focus is soft and gently highlights the subject.  The overall color palette is pale and bright.  The image evokes a tranquil, relaxed, and soft aesthetic.  The lighting is natural, diffused, and casts no harsh shadows.  The texture of the bedding and clothing is smooth and delicate.  The mood is serene and inviting.  Pastel aesthetic.  Candid portrait.`
 
 # example result
