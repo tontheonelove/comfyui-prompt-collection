@@ -10,7 +10,7 @@
 | <img src="/asset/ComfyUI_00008_.png" width="150" />   | 🤗 [Prompt](prompt/8K%20high%20resolution%20digital%20footage%20of%20a%20rice%20field%20full.md)       | [SamsungCam UltraReal](https://civitai.green/models/1551668/samsungcam-ultrareal?modelVersionId=1755780)
 | <img src="/asset/ComfyUI_00002_.png" width="150" />     | 🤗 [Prompt](prompt/a%20serene%20morning%20landscape%20scene%20featuring%20soft%20golden%20sunlight.md)      | [NSFW MASTER FLUX](https://civitai.com/models/667086/nsfw-master-flux?modelVersionId=746602)
 
-| <img src="/asset/ComfyUI_00007_.png" width="150" />     | 🤗 [Prompt](prompt/A%2020-year-old%20girl%20long%20brown%20hair.md)      | NO
+| <img src="/asset/ComfyUI_00034_.png" width="150" />     | 🤗 [Prompt](prompt/High-resolution%20artistic%20portrait%20of%20a%20full-length%20Asian%20woma.md)      | [SamsungCam UltraReal](https://civitai.green/models/1551668/samsungcam-ultrareal?modelVersionId=1755780)
 | <img src="/asset/ComfyUI_00007_.png" width="150" />     | 🤗 [Prompt](prompt/A%2020-year-old%20girl%20long%20brown%20hair.md)      | NO
 | <img src="/asset/ComfyUI_00007_.png" width="150" />     | 🤗 [Prompt](prompt/A%2020-year-old%20girl%20long%20brown%20hair.md)      | NO
 | <img src="/asset/ComfyUI_00007_.png" width="150" />     | 🤗 [Prompt](prompt/A%2020-year-old%20girl%20long%20brown%20hair.md)      | NO
@@ -18,9 +18,6 @@
 | <img src="/asset/ComfyUI_00007_.png" width="150" />     | 🤗 [Prompt](prompt/A%2020-year-old%20girl%20long%20brown%20hair.md)      | NO
 | <img src="/asset/ComfyUI_00007_.png" width="150" />     | 🤗 [Prompt](prompt/A%2020-year-old%20girl%20long%20brown%20hair.md)      | NO
 
-# example result (with Lora SamsungCam UltraReal)
-<img src="/asset/ComfyUI_00034_.png" width="250" />
------------------------------------------------------------------------------------------
 
  `beautiful woman, brown hair, wearing white tank top, mini tight and fit black side cut shorts with white trim, She lie down on white leather sofa, with a black-screened smartphone next to her, she looking at sky, Golden light streams into a modern living room, white curtain, `
 # example result (with Lora SamsungCam UltraReal)
