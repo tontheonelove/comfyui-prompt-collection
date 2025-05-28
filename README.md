@@ -11,8 +11,6 @@
 | VACE-14B     | 🤗 [Huggingface](https://huggingface.co/Wan-AI/Wan2.1-VACE-14B)      | Supports both 480P and 720P
 
 
-`Full shot of road at night under a bright full moon.  Golden wheat field stretches out on both sides of a winding dirt road, bathed in the soft, warm glow of the moon.  A full moon is prominently featured in the sky, positioned high above the landscape. with the road curving gently into the distance.  The sky is filled with soft, textured clouds, creating a dreamy, idyllic atmosphere.  Warm tones dominate the image, with muted yellow, beige, and brown hues of the wheat fields and the road, contrasting subtly with the darker tones of the shadows in the image.  The lighting is soft and atmospheric, casting a gentle glow on the scene, emphasizing the tranquil beauty of the setting.  The mood is peaceful and reflective.  giving a nostalgic feel to the scene.  The image conveys a sense of calm and serenity, with a focus on the natural beauty of the countryside at night.`
-
 # example result
 <img src="/asset/ComfyUI_00019_.png" width="250" />
 -----------------------------------------------------------------------------------------
