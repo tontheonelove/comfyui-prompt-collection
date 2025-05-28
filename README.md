@@ -5,6 +5,8 @@
 
 | Result (Flux)      | Prompt                                                                                                                                         |    Lora                      |
 |--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|
+
+| <img src="/asset/ComfyUI_00024_.png" width="150" />     | 🤗 [Prompt](prompt/Full%20moon%20illuminating%20a%20winding%20dirt%20path%20through%20a%20grassy%20field%20at%20night.md)      | [SamsungCam UltraReal](https://civitai.green/models/1551668/samsungcam-ultrareal?modelVersionId=1755780)
 | <img src="/asset/ComfyUI_00020_.png" width="150" />      | 🤗 [Prompt](prompt/Two%20young%20Asian%20women.md)      | [SamsungCam UltraReal](https://civitai.green/models/1551668/samsungcam-ultrareal?modelVersionId=1755780)
 | <img src="/asset/ComfyUI_00019_.png" width="150" /> | 🤗 [Prompt](prompt/Full%20shot%20of%20road%20at%20night%20under%20a%20bright%20full%20moon.md)  | [SamsungCam UltraReal](https://civitai.green/models/1551668/samsungcam-ultrareal?modelVersionId=1755780)
 | <img src="/asset/ComfyUI_00014_.png" width="150" /> | 🤗 [Prompt](prompt/Young%20woman%2C%20late%20teens%20to%20early%20twenties.md) | [SamsungCam UltraReal](https://civitai.green/models/1551668/samsungcam-ultrareal?modelVersionId=1755780)
@@ -19,7 +21,7 @@
 | <img src="/asset/ComfyUI_00027_.png" width="150" />   | 🤗 [Prompt](prompt/High%20definition%20artistic%20portrait%20of%20a%20young%20Thai%20woman.md)      | NO
 | <img src="/asset/ComfyUI_00026_.png" width="150" />    | 🤗 [Prompt](prompt/A%20masterpiece%2C%208k%20portrait%20realistic%20photograph.md)      | NO
 | <img src="/asset/ComfyUI_00025_.png" width="150" />     | 🤗 [Prompt](prompt/High%20resolution%20full%20body%20artist%20portrait%20of%20a%20beautiful%20Asian%20woman.md)      | NO
-| <img src="/asset/ComfyUI_00029_.png" width="150" />     | 🤗 [Prompt](prompt/Full%20moon%20illuminating%20a%20winding%20dirt%20path%20through%20a%20grassy%20field%20at%20night.md)      | NO
+
 
 
 
