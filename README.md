@@ -8,6 +8,7 @@
 | <img src="/asset/ComfyUI_00013_.png" width="150" /> | 🤗 [Prompt](prompt/pink%20nurse%20costume.md)       | [SamsungCam UltraReal](https://civitai.green/models/1551668/samsungcam-ultrareal?modelVersionId=1755780)
 | <img src="/asset/ComfyUI_00009_.png" width="150" />  | 🤗 [Prompt](prompt/%608K%20high%20resolution%20digital%20footage%20of%20A%20serene%20camping.md)  | [SamsungCam UltraReal](https://civitai.green/models/1551668/samsungcam-ultrareal?modelVersionId=1755780)
 | <img src="/asset/ComfyUI_00008_.png" width="150" />   | 🤗 [Prompt](prompt/8K%20high%20resolution%20digital%20footage%20of%20a%20rice%20field%20full.md)       | [SamsungCam UltraReal](https://civitai.green/models/1551668/samsungcam-ultrareal?modelVersionId=1755780)
+| <img src="/asset/ComfyUI_00002_.png" width="150" />     | 🤗 [Prompt](prompt/a%20serene%20morning%20landscape%20scene%20featuring%20soft%20golden%20sunlight.md)      | NSFW MASTER FLUX
 | <img src="/asset/ComfyUI_00007_.png" width="150" />     | 🤗 [Prompt](prompt/A%2020-year-old%20girl%20long%20brown%20hair.md)      | NO
 | <img src="/asset/ComfyUI_00007_.png" width="150" />     | 🤗 [Prompt](prompt/A%2020-year-old%20girl%20long%20brown%20hair.md)      | NO
 | <img src="/asset/ComfyUI_00007_.png" width="150" />     | 🤗 [Prompt](prompt/A%2020-year-old%20girl%20long%20brown%20hair.md)      | NO
@@ -15,13 +16,6 @@
 | <img src="/asset/ComfyUI_00007_.png" width="150" />     | 🤗 [Prompt](prompt/A%2020-year-old%20girl%20long%20brown%20hair.md)      | NO
 | <img src="/asset/ComfyUI_00007_.png" width="150" />     | 🤗 [Prompt](prompt/A%2020-year-old%20girl%20long%20brown%20hair.md)      | NO
 | <img src="/asset/ComfyUI_00007_.png" width="150" />     | 🤗 [Prompt](prompt/A%2020-year-old%20girl%20long%20brown%20hair.md)      | NO
-| <img src="/asset/ComfyUI_00007_.png" width="150" />     | 🤗 [Prompt](prompt/A%2020-year-old%20girl%20long%20brown%20hair.md)      | NO
-
- # example result (with Lora NSFW MASTER FLUX)
-<img src="/asset/ComfyUI_00002_.png" width="250" />
------------------------------------------------------------------------------------------
-
-
 
  `High-resolution artistic portrait of a full-length Asian woman standing on the railing of a high-rise building at night. She has fair skin and a slim figure. She wears a white crop top with a pink Hello Kitty cartoon print that is lifted up to reveal part of her breasts and thin pink panties with a delicate string and a small pink string tied around her waist. Her light brown long hair is left down and flowing naturally.
 She poses confidently and expressively, with one hand on her head and the other on her hip, with her head turned to the side, conveying a playful yet sexy mood.
