@@ -1,5 +1,5 @@
 
-<h1 align="center">🔥comfyui-prompt-collection By Ton🔥</h1>
+<h1 align="center">🔥Flux-prompt-collection By Ton🔥</h1>
 
 ## Update 28 - 5 - 25
 
