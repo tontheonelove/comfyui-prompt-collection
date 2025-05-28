@@ -6,11 +6,11 @@
 | <img src="/asset/ComfyUI_00019_.png" width="150" /> | 🤗 [Prompt](prompt/Full%20shot%20of%20road%20at%20night%20under%20a%20bright%20full%20moon.md)  | SamsungCam UltraReal
 | <img src="/asset/ComfyUI_00014_.png" width="150" /> | 🤗 [Prompt](prompt/Young%20woman%2C%20late%20teens%20to%20early%20twenties.md) | SamsungCam UltraReal
 | <img src="/asset/ComfyUI_00013_.png" width="150" /> | 🤗 [Prompt](prompt/pink%20nurse%20costume.md)       | SamsungCam UltraReal
-| FLF2V-14B    | 🤗 [Prompt](https://huggingface.co/Wan-AI/Wan2.1-FLF2V-14B-720P)  | SamsungCam UltraReal
+| <img src="/asset/ComfyUI_00009_.png" width="250" />  | 🤗 [Prompt](prompt/%608K%20high%20resolution%20digital%20footage%20of%20A%20serene%20camping.md)  | SamsungCam UltraReal
 | VACE-1.3B    | 🤗 [Prompt](https://huggingface.co/Wan-AI/Wan2.1-VACE-1.3B)       | SamsungCam UltraReal
 | VACE-14B     | 🤗 [Prompt](https://huggingface.co/Wan-AI/Wan2.1-VACE-14B)      | SamsungCam UltraReal
 
-<img src="/asset/ComfyUI_00009_.png" width="250" />
+
 
 
 `8K high resolution digital footage of a rice field full of the best atmosphere, in the rice field there is rice and water, the sky has a group of clouds, there is a thin ray of sunlight passing through the camera, there is a group of birds in the sky flying by, professional photography, whether it is the details, clarity and the best camera angle.`
