@@ -4,7 +4,7 @@
 |--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|
 | <img src="/asset/ComfyUI_00020_.png" width="150" />      | 🤗 [Prompt](prompt/Two%20young%20Asian%20women.md)      | SamsungCam UltraReal
 | <img src="/asset/ComfyUI_00019_.png" width="150" /> | 🤗 [Prompt](prompt/Full%20shot%20of%20road%20at%20night%20under%20a%20bright%20full%20moon.md)  | SamsungCam UltraReal
-| <img src="/asset/ComfyUI_00014_.png" width="150" /> | 🤗 [Huggingface](prompt/Young%20woman%2C%20late%20teens%20to%20early%20twenties.md) | No
+| <img src="/asset/ComfyUI_00014_.png" width="150" /> | 🤗 [Huggingface](prompt/Young%20woman%2C%20late%20teens%20to%20early%20twenties.md) | SamsungCam UltraReal
 | T2V-1.3B     | 🤗 [Huggingface](https://huggingface.co/Wan-AI/Wan2.1-T2V-1.3B)       | Supports 480P
 | FLF2V-14B    | 🤗 [Huggingface](https://huggingface.co/Wan-AI/Wan2.1-FLF2V-14B-720P)  | Supports 720P
 | VACE-1.3B    | 🤗 [Huggingface](https://huggingface.co/Wan-AI/Wan2.1-VACE-1.3B)       | Supports 480P
